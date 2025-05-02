@@ -1,0 +1,66 @@
+{
+  "citizenship_number_1": {
+    "Citizenship": {
+      "name": "NAME_CITIZEN_1",
+      "year_of_birth": "YEAR_OF_BIRTH_1",
+      "gender": "GENDER_1",
+      "birth_place": "BIRTH_PLACE_1",
+      "citizenship_number": "citizenship_number_1"
+    }
+  },
+  "citizenship_number_2": {
+    "Citizenship": {
+      "name": "NAME_CITIZEN_2",
+      "year_of_birth": "YEAR_OF_BIRTH_2",
+      "gender": "GENDER_2",
+      "birth_place": "BIRTH_PLACE_2",
+      "citizenship_number": "citizenship_number_2"
+    },
+    "Passport": {
+      "name": "PASSPORT_NAME_2",
+      "surname": "PASSPORT_SURNAME_2",
+      "dob": "DOB_2",
+      "citizenship_number": "citizenship_number_2",
+      "passport_number": "PASSPORT_NUMBER_2"
+    }
+  },
+  "citizenship_number_3": {
+    "Citizenship": {
+      "name": "NAME_CITIZEN_3",
+      "year_of_birth": "YEAR_OF_BIRTH_3",
+      "gender": "GENDER_3",
+      "birth_place": "BIRTH_PLACE_3",
+      "citizenship_number": "citizenship_number_3"
+    },
+    "License": {
+      "name": "LICENSE_NAME_3",
+      "dob": "DOB_LICENSE_3",
+      "contact_number": "CONTACT_NUMBER_3",
+      "license_number": "LICENSE_NUMBER_3",
+      "citizenship_number": "citizenship_number_3"
+    }
+  },
+  "citizenship_number_4": {
+    "Citizenship": {
+      "name": "NAME_CITIZEN_4",
+      "year_of_birth": "YEAR_OF_BIRTH_4",
+      "gender": "GENDER_4",
+      "birth_place": "BIRTH_PLACE_4",
+      "citizenship_number": "citizenship_number_4"
+    },
+    "Passport": {
+      "name": "PASSPORT_NAME_4",
+      "surname": "PASSPORT_SURNAME_4",
+      "dob": "DOB_4",
+      "citizenship_number": "citizenship_number_4",
+      "passport_number": "PASSPORT_NUMBER_4"
+    },
+    "License": {
+      "name": "LICENSE_NAME_4",
+      "dob": "DOB_LICENSE_4",
+      "contact_number": "CONTACT_NUMBER_4",
+      "license_number": "LICENSE_NUMBER_4",
+      "citizenship_number": "citizenship_number_4"
+    }
+  }
+}

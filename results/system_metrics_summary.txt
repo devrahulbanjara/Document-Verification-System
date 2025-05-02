@@ -1,0 +1,9 @@
+## Overall System Evaluation
+
+| Metric    | Genuine | Fraudulent |
+|-----------|---------|------------|
+| Precision | 1.0     | 0.6        |
+| Recall    | 0.7647  | 1.0        |
+| F1 Score  | 0.8667  | 0.75       |
+
+- **Overall Accuracy**: 82.61%

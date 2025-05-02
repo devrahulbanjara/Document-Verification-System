@@ -1,0 +1,13 @@
+easyocr
+numpy
+matplotlib
+opencv-python
+paddleocr
+paddlepaddle-gpu
+pillow
+python-Levenshtein
+scikit-learn
+streamlit
+tensorflow
+torch
+ultralytics
